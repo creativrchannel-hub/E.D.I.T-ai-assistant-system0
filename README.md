@@ -157,3 +157,7 @@ Needs GPU (recommended)
 🔴 Mic Fix (Windows)
 pip install pipwin
 pipwin install pyaudio
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/689bfe19-f9c9-43f5-a529-a09040d036d5" />
+
